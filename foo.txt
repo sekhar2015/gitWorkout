@@ -1,2 +1,3 @@
 this is foo
-thi is 2nd update on foo"
+thi is 2nd update on foo
+this is 3rd update for checking divergin branch
