@@ -1,2 +1,2 @@
 this is baz!
-updated baz in master
+updated baz
